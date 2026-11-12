@@ -8,5 +8,3 @@ On the side, I love building small, delightful things:
 - **[Leaf & Linger](https://leaf-linger.vercel.app):** a cozy plant-shop game.
 
 Small delights, on screen and off.
-
-[jiao-design.vercel.app](https://jiao-design.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jiaoshi/)
